@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kiran-todo/static/js/main.9ac58599.chunk.js",
+    "main.js.map": "/kiran-todo/static/js/main.9ac58599.chunk.js.map",
+    "runtime-main.js": "/kiran-todo/static/js/runtime-main.0d322571.js",
+    "runtime-main.js.map": "/kiran-todo/static/js/runtime-main.0d322571.js.map",
+    "static/js/2.039aaf5d.chunk.js": "/kiran-todo/static/js/2.039aaf5d.chunk.js",
+    "static/js/2.039aaf5d.chunk.js.map": "/kiran-todo/static/js/2.039aaf5d.chunk.js.map",
+    "static/js/3.6468b0e0.chunk.js": "/kiran-todo/static/js/3.6468b0e0.chunk.js",
+    "static/js/3.6468b0e0.chunk.js.map": "/kiran-todo/static/js/3.6468b0e0.chunk.js.map",
+    "index.html": "/kiran-todo/index.html",
+    "static/js/2.039aaf5d.chunk.js.LICENSE.txt": "/kiran-todo/static/js/2.039aaf5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d322571.js",
+    "static/js/2.039aaf5d.chunk.js",
+    "static/js/main.9ac58599.chunk.js"
+  ]
+}
